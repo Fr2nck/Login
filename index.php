@@ -8,9 +8,9 @@
 <body>
     <form action="funciones/PHP_login_basico.php" method="POST">
         <label>Usuario: </label>
-        <input type="text" name="user" placeholder="Usuario" required><br>
+        <input type="text" name="user" placeholder="Usuario" required><br><br>
         <label>Contraseña: </label>
-        <input type="password" name="pass" placeholder="Contraseña" required><br>
+        <input type="password" name="pass" placeholder="Contraseña" required><br><br>
         <button type="submit">Iniciar Sesion</button>
     </form>
 </body>
