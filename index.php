@@ -11,7 +11,8 @@
         <input type="text" name="user" placeholder="Usuario" required><br><br>
         <label>Contraseña: </label>
         <input type="password" name="pass" placeholder="Contraseña" required><br><br>
-        <button type="submit">Iniciar Sesion</button>
+        <button type="submit">Iniciar Sesion</button><br>
     </form>
+    <br><a href="Login_avanzado.php" title="LOGIN AVANZADO" target="_blank">Nuevo Login</a>
 </body>
 </html>
